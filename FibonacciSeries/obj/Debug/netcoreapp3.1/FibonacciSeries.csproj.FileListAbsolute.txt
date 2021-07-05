@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.exe
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.deps.json
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.runtimeconfig.json
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.dll
+E:\C#\LogicalProgramming\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.pdb
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.AssemblyInfo.cs
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.dll
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.pdb
+E:\C#\LogicalProgramming\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.genruntimeconfig.cache
