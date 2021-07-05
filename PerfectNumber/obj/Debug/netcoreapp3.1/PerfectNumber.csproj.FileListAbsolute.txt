@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.exe
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.deps.json
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.json
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.dll
+E:\C#\LogicalProgramming\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.pdb
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfo.cs
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.dll
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.pdb
+E:\C#\LogicalProgramming\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.genruntimeconfig.cache
