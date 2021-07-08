@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.exe
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.deps.json
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.runtimeconfig.json
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.dll
+E:\C#\LogicalProgramming\ReversingNumber\bin\Debug\netcoreapp3.1\ReversingNumber.pdb
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.AssemblyInfo.cs
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.dll
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.pdb
+E:\C#\LogicalProgramming\ReversingNumber\obj\Debug\netcoreapp3.1\ReversingNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+E:\C#\LogicalProgramming\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb
+E:\C#\LogicalProgramming\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.genruntimeconfig.cache

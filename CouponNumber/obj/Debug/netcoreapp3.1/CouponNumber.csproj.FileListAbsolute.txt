@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.exe
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.deps.json
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.json
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.dll
+E:\C#\LogicalProgramming\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.pdb
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfo.cs
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.dll
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.pdb
+E:\C#\LogicalProgramming\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.genruntimeconfig.cache
