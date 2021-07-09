@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.exe
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.deps.json
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.runtimeconfig.json
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.dll
+E:\C#\LogicalProgramming\DayFinder\bin\Debug\netcoreapp3.1\DayFinder.pdb
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.AssemblyInfo.cs
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.dll
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.pdb
+E:\C#\LogicalProgramming\DayFinder\obj\Debug\netcoreapp3.1\DayFinder.genruntimeconfig.cache
