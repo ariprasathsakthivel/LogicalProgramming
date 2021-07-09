@@ -1,0 +1,12 @@
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.exe
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.deps.json
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.runtimeconfig.json
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.dll
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\bin\Debug\netcoreapp3.1\MonthlyPaymentCalculator.pdb
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.AssemblyInfo.cs
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.dll
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.pdb
+E:\C#\LogicalProgramming\MonthlyPaymentCalculator\obj\Debug\netcoreapp3.1\MonthlyPaymentCalculator.genruntimeconfig.cache

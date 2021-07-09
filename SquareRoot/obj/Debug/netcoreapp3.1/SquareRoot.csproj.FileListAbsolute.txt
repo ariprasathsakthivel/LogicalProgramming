@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+E:\C#\LogicalProgramming\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache
+E:\C#\LogicalProgramming\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
