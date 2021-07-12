@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.exe
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.deps.json
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.runtimeconfig.json
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.dll
+E:\C#\LogicalProgramming\DecimalNibbleSwap\bin\Debug\netcoreapp3.1\DecimalNibbleSwap.pdb
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.AssemblyInfo.cs
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.dll
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.pdb
+E:\C#\LogicalProgramming\DecimalNibbleSwap\obj\Debug\netcoreapp3.1\DecimalNibbleSwap.genruntimeconfig.cache
