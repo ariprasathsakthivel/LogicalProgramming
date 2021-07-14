@@ -26,8 +26,11 @@ namespace VendingMachine
             }
             foreach (int count in noteCount)
             {
-                Console.WriteLine(" Number of {0} are {1}", notes[j], count);
-                j++;
+                if (count != 0)
+                {
+                    Console.WriteLine(" Number of {0} are {1}", notes[j], count);
+                    j++;
+                }
             }
         }
     }
