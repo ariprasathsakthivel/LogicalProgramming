@@ -1,0 +1,13 @@
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+E:\C#\LogicalProgramming\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+E:\C#\LogicalProgramming\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
